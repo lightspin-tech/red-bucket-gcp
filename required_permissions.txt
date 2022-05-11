@@ -1,0 +1,7 @@
+iam.roles.get
+storage.buckets.get
+storage.buckets.getIamPolicy
+storage.buckets.list
+storage.objects.get
+storage.objects.getIamPolicy
+storage.objects.list
