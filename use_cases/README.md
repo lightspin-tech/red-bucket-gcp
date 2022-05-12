@@ -11,7 +11,7 @@ In the beginning of each file, you can find a short description of the case.
 | uniform3      | uniform + prevent public access enabled + public access permissions at the bucket level                                         | <ul><li>GCP's evaluations - Not public</li><li>Lightspin's evaluations - Not public</li></ul>            |
 | uniform4      | uniform + prevent public access disabled + public permissions that does not apply to storage resources (compute.instances.list) | <ul><li>GCP's evaluations - Public</li><li>Lightspin's evaluations - Not public</li></ul>                |
 | fine_grained1 | fine-grained + prevent public access disabled + public access permissions at the bucket and object levels                       | <ul><li>GCP's evaluations - Public</li><li>Lightspin's evaluations - Public</li></ul>                    |
-| fine_grained2 | fine-grained + prevent public access enabled + public access permissions at the bucket and object level                         | <ul><li>GCP's evaluations - Not Public</li><li>Lightspin's evaluations - Public</li></ul>                |
+| fine_grained2 | fine-grained + prevent public access enabled + public access permissions at the bucket and object level                         | <ul><li>GCP's evaluations - Not Public</li><li>Lightspin's evaluations - Not Public</li></ul>            |
 | fine_grained3 | fine-grained + prevent public access disabled +  two objects, only one with public access permissions                           | <ul><li>GCP's evaluations - Subject to object ACLs	</li><li>Lightspin's evaluations - Public</li></ul>   |
 
 ### Usage
