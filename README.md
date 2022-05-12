@@ -15,7 +15,7 @@ You can use the use_cases folder, that contains terraform files of several inter
 
 
 ### Our Research
-[Link to the full security research blog]()
+[Link to the full security research blog](https://blog.lightspin.io/gcp-buckets-publicly-accessible?utm_campaign=How%20many%20of%20your%20GCP%20buckets%20are%20publicly%20accessible%3F%20-%20Blog&utm_content=207795385&utm_medium=social&utm_source=linkedin&hss_channel=lcp-68578938)
 
 
 ### Requirements
